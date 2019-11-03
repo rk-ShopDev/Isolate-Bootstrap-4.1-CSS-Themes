@@ -1,4 +1,4 @@
-<h1>How to USE Bootstrap for specific html/ection without any conflict<h1>
+<h1>How to USE Bootstrap in specific html/section without any conflict<h1>
 
 [![N|Solid](https://gourl.io/images/logo.png)](https://gourl.io/)
 .
