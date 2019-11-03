@@ -1,3 +1,5 @@
+<h1>How to USE Bootstrap for specific html/ection without any conflict<h1>
+
 [![N|Solid](https://gourl.io/images/logo.png)](https://gourl.io/)
 .
 
@@ -8,7 +10,7 @@
 # How to Isolate Bootstrap CSS to Avoid Conflicts
 
 Bootstrap is the most popular CSS framework on the web. It makes it incredibly easy to create beautiful, responsive designs that just work. 
-However, it’s not always possible to use Bootstrap for your entire website. Often the website’s main CSS is outside of your control. 
+However, itâ€™s not always possible to use Bootstrap for your entire website. Often the websiteâ€™s main CSS is outside of your control. 
 You just need to use a portion of Bootstrap CSS. 
 
 
